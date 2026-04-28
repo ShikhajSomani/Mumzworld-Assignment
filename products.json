@@ -1,0 +1,362 @@
+[
+  {
+    "id": "BP001",
+    "name": "UrbaneGlide 4-Wheel Stroller",
+    "category": "stroller",
+    "age_range": "0-36 months",
+    "price": 18999,
+    "features": ["reversible seat", "one-hand fold", "UV canopy", "5-point harness", "storage basket"],
+    "use_case": "travel"
+  },
+  {
+    "id": "BP002",
+    "name": "LiteRide Compact Travel Stroller",
+    "category": "stroller",
+    "age_range": "6-36 months",
+    "price": 12499,
+    "features": ["aircraft cabin-size fold", "carry strap", "mesh back", "adjustable footrest", "cup holder"],
+    "use_case": "travel"
+  },
+  {
+    "id": "BP003",
+    "name": "SoftSounds Musical Rattle Set",
+    "category": "toy",
+    "age_range": "0-6 months",
+    "price": 699,
+    "features": ["BPA-free", "teether ring", "gentle melody", "high-contrast colors", "easy grip"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP004",
+    "name": "WiggleWorm Activity Gym",
+    "category": "toy",
+    "age_range": "0-12 months",
+    "price": 2299,
+    "features": ["5 hanging toys", "tummy time pillow", "mirror", "crinkle textures", "detachable arches"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP005",
+    "name": "NourishEase Anti-Colic Bottle Set",
+    "category": "feeding",
+    "age_range": "0-12 months",
+    "price": 1199,
+    "features": ["slow-flow nipple", "venting system", "BPA-free PPSU", "wide neck", "dishwasher safe"],
+    "use_case": "feeding"
+  },
+  {
+    "id": "BP006",
+    "name": "BumbleBib Silicone Feeding Bib",
+    "category": "feeding",
+    "age_range": "6-36 months",
+    "price": 499,
+    "features": ["food catch pocket", "soft silicone", "adjustable neck", "wipe-clean", "foldable for travel"],
+    "use_case": "feeding"
+  },
+  {
+    "id": "BP007",
+    "name": "CloudWrap Organic Cotton Onesie 5-Pack",
+    "category": "clothing",
+    "age_range": "0-3 months",
+    "price": 1299,
+    "features": ["GOTS-certified cotton", "snap buttons", "envelope neckline", "tagless label", "pre-washed"],
+    "use_case": "daily wear"
+  },
+  {
+    "id": "BP008",
+    "name": "SnugFleece Winter Jumpsuit",
+    "category": "clothing",
+    "age_range": "3-12 months",
+    "price": 1799,
+    "features": ["polar fleece lining", "2-way zip", "fold-over mittens", "booties attached", "wind-resistant"],
+    "use_case": "daily wear"
+  },
+  {
+    "id": "BP009",
+    "name": "SafeGuard Baby Monitor Pro",
+    "category": "safety",
+    "age_range": "0-36 months",
+    "price": 6499,
+    "features": ["1080p camera", "night vision", "two-way audio", "temperature alert", "app control"],
+    "use_case": "safety"
+  },
+  {
+    "id": "BP010",
+    "name": "DreamNest Bedside Co-Sleeper",
+    "category": "bedding",
+    "age_range": "0-6 months",
+    "price": 8999,
+    "features": ["mesh sides", "adjustable height", "breathable mattress", "side zip", "washable cover"],
+    "use_case": "sleep"
+  },
+  {
+    "id": "BP011",
+    "name": "BabyBliss Baby Bouncer",
+    "category": "gear",
+    "age_range": "0-9 months",
+    "price": 3499,
+    "features": ["3 bounce positions", "vibration mode", "machine-wash cover", "carry handle", "toy bar"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP012",
+    "name": "PureBath Infant Tub",
+    "category": "bathing",
+    "age_range": "0-18 months",
+    "price": 1499,
+    "features": ["ergonomic newborn sling", "non-slip base", "temperature indicator", "drain plug", "foldable"],
+    "use_case": "bathing"
+  },
+  {
+    "id": "BP013",
+    "name": "TinyEats First Foods Blender",
+    "category": "feeding",
+    "age_range": "4-24 months",
+    "price": 3999,
+    "features": ["steam & blend combo", "BPA-free bowl", "auto shut-off", "5 portion control cups", "easy clean"],
+    "use_case": "feeding"
+  },
+  {
+    "id": "BP014",
+    "name": "GentleCarry Ergonomic Baby Carrier",
+    "category": "carrier",
+    "age_range": "0-24 months",
+    "price": 5499,
+    "features": ["4 carry positions", "lumbar support waistband", "breathable mesh", "newborn insert", "one-size adjustable"],
+    "use_case": "wearing"
+  },
+  {
+    "id": "BP015",
+    "name": "NightStar Nursery Projector",
+    "category": "toy",
+    "age_range": "0-36 months",
+    "price": 1899,
+    "features": ["360° star projection", "lullaby library", "timer function", "remote control", "USB charge"],
+    "use_case": "sleep"
+  },
+  {
+    "id": "BP016",
+    "name": "SoftSole Pre-Walker Shoes",
+    "category": "clothing",
+    "age_range": "0-18 months",
+    "price": 699,
+    "features": ["non-slip rubber sole", "velcro closure", "breathable upper", "machine washable", "wide toe box"],
+    "use_case": "daily wear"
+  },
+  {
+    "id": "BP017",
+    "name": "PediaTemp Ear Thermometer",
+    "category": "health",
+    "age_range": "0-36 months",
+    "price": 2499,
+    "features": ["1-second reading", "fever alert", "memory for 20 readings", "backlit display", "pediatrician-grade"],
+    "use_case": "health"
+  },
+  {
+    "id": "BP018",
+    "name": "CozyNap Bamboo Sleep Sack",
+    "category": "bedding",
+    "age_range": "0-12 months",
+    "price": 1599,
+    "features": ["2-way zipper", "TOG 1.0", "bamboo-cotton blend", "shoulder snaps", "machine washable"],
+    "use_case": "sleep"
+  },
+  {
+    "id": "BP019",
+    "name": "GumSoothe Teether Set",
+    "category": "toy",
+    "age_range": "3-12 months",
+    "price": 799,
+    "features": ["food-grade silicone", "freezer-safe", "varied textures", "ring + banana + leaf shapes", "BPA-free"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP020",
+    "name": "BreathEasy Nasal Aspirator",
+    "category": "health",
+    "age_range": "0-24 months",
+    "price": 1299,
+    "features": ["electric suction", "hygiene filter", "USB rechargeable", "quiet motor", "3 suction levels"],
+    "use_case": "health"
+  },
+  {
+    "id": "BP021",
+    "name": "SplashPal Bath Toy Set",
+    "category": "bathing",
+    "age_range": "6-36 months",
+    "price": 899,
+    "features": ["5-piece set", "squeeze & squirt", "mould-resistant", "BPA-free", "bright colours"],
+    "use_case": "bathing"
+  },
+  {
+    "id": "BP022",
+    "name": "MamaHug Ring Sling",
+    "category": "carrier",
+    "age_range": "0-18 months",
+    "price": 2799,
+    "features": ["linen-cotton blend", "padded shoulder", "adjustable ring", "compact fold", "multiple carry styles"],
+    "use_case": "wearing"
+  },
+  {
+    "id": "BP023",
+    "name": "BabyBorn Learning Walker",
+    "category": "toy",
+    "age_range": "9-36 months",
+    "price": 2999,
+    "features": ["push & ride modes", "activity panel", "shape sorter", "music & lights", "non-scratch wheels"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP024",
+    "name": "NaturalFlow Breast Pump",
+    "category": "feeding",
+    "age_range": "0-12 months",
+    "price": 7499,
+    "features": ["double electric", "9 suction levels", "quiet motor", "LED display", "BPA-free kit"],
+    "use_case": "feeding"
+  },
+  {
+    "id": "BP025",
+    "name": "MiniChef Suction Bowl Set",
+    "category": "feeding",
+    "age_range": "6-36 months",
+    "price": 649,
+    "features": ["strong suction base", "lid included", "soft-edge spoon", "microwave safe", "easy clean"],
+    "use_case": "feeding"
+  },
+  {
+    "id": "BP026",
+    "name": "LullaBot Interactive Plush Toy",
+    "category": "toy",
+    "age_range": "0-24 months",
+    "price": 1499,
+    "features": ["heartbeat simulation", "5 lullabies", "soft velboa fabric", "auto shut-off", "night light"],
+    "use_case": "sleep"
+  },
+  {
+    "id": "BP027",
+    "name": "TinyTraveller Infant Car Seat",
+    "category": "safety",
+    "age_range": "0-13 kg",
+    "price": 11999,
+    "features": ["side-impact protection", "5-point harness", "ISOFIX base", "rear-facing", "newborn head support"],
+    "use_case": "travel"
+  },
+  {
+    "id": "BP028",
+    "name": "CloudSoft Muslin Swaddle Blankets 4-Pack",
+    "category": "bedding",
+    "age_range": "0-6 months",
+    "price": 999,
+    "features": ["100% muslin cotton", "pre-washed softness", "120cm square", "multi-use", "OEKO-TEX certified"],
+    "use_case": "sleep"
+  },
+  {
+    "id": "BP029",
+    "name": "BubbleBath Baby Wash & Shampoo",
+    "category": "bathing",
+    "age_range": "0-36 months",
+    "price": 449,
+    "features": ["tear-free formula", "paraben-free", "dermatologist tested", "natural chamomile", "pump dispenser"],
+    "use_case": "bathing"
+  },
+  {
+    "id": "BP030",
+    "name": "SafeStep Baby Gate",
+    "category": "safety",
+    "age_range": "6-36 months",
+    "price": 4999,
+    "features": ["pressure & wall mount", "76-82cm span", "one-hand open", "no-trip threshold", "steel frame"],
+    "use_case": "safety"
+  },
+  {
+    "id": "BP031",
+    "name": "HappyGums Silicone Spoon Set",
+    "category": "feeding",
+    "age_range": "4-24 months",
+    "price": 549,
+    "features": ["temperature-sensitive tip", "soft silicone head", "ergonomic handle", "steriliser safe", "4 colours"],
+    "use_case": "feeding"
+  },
+  {
+    "id": "BP032",
+    "name": "PixiePack Nappy Backpack",
+    "category": "gear",
+    "age_range": "0-36 months",
+    "price": 3299,
+    "features": ["changing mat included", "insulated bottle pocket", "stroller clips", "USB charging port", "15L capacity"],
+    "use_case": "travel"
+  },
+  {
+    "id": "BP033",
+    "name": "DreamWeave Knit Cocoon Wrap",
+    "category": "clothing",
+    "age_range": "0-3 months",
+    "price": 899,
+    "features": ["stretchy knit", "adjustable tie", "photo-shoot prop", "soft pastel colours", "one-size"],
+    "use_case": "daily wear"
+  },
+  {
+    "id": "BP034",
+    "name": "MiniMedic Baby First Aid Kit",
+    "category": "health",
+    "age_range": "0-36 months",
+    "price": 1799,
+    "features": ["26-piece set", "nail scissors", "brush & comb", "digital thermometer", "medicine dropper"],
+    "use_case": "health"
+  },
+  {
+    "id": "BP035",
+    "name": "TummyTime Wedge Pillow",
+    "category": "gear",
+    "age_range": "0-6 months",
+    "price": 1399,
+    "features": ["memory foam", "removable washable cover", "crinkle toy strap", "non-slip base", "ergonomic angle"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP036",
+    "name": "SunShield Stroller Parasol",
+    "category": "gear",
+    "age_range": "0-36 months",
+    "price": 799,
+    "features": ["UPF 50+", "universal clip", "360° rotation", "compact fold", "water-resistant"],
+    "use_case": "travel"
+  },
+  {
+    "id": "BP037",
+    "name": "BabyBloom Wooden Stacking Rings",
+    "category": "toy",
+    "age_range": "6-24 months",
+    "price": 1099,
+    "features": ["FSC-certified wood", "non-toxic paint", "9 coloured rings", "rounded edges", "size-graded rings"],
+    "use_case": "play"
+  },
+  {
+    "id": "BP038",
+    "name": "WhisperDry Bamboo Nappy Pads 30-Pack",
+    "category": "health",
+    "age_range": "0-24 months",
+    "price": 599,
+    "features": ["bamboo-charcoal layer", "ultra-thin", "waterproof backing", "odour absorb", "one-size snap"],
+    "use_case": "health"
+  },
+  {
+    "id": "BP039",
+    "name": "SleepSense White Noise Machine",
+    "category": "gear",
+    "age_range": "0-36 months",
+    "price": 2199,
+    "features": ["20 soothing sounds", "night light", "timer", "USB powered", "travel pouch"],
+    "use_case": "sleep"
+  },
+  {
+    "id": "BP040",
+    "name": "LittleLatch Nursing Pillow",
+    "category": "feeding",
+    "age_range": "0-12 months",
+    "price": 1999,
+    "features": ["C-shaped design", "memory foam insert", "removable cover", "non-slip base", "firm support"],
+    "use_case": "feeding"
+  }
+]
